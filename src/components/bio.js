@@ -57,11 +57,11 @@ const Bio = () => {
         }}
       />
       <p>
-        Bei CardOnly.de dreht sich alles um Kartenzahlung und Banking - in
-        unserem Vergleich findet ihr eure beste Karte, im Blog alle aktuellen
+        Bei <a href="https://cardonly.de">CardOnly.de</a> dreht sich alles um Kartenzahlung und Banking - in
+        unserem <a href="https://cardonly.de">Vergleich </a>Vergleich findet ihr eure beste Karte, im Blog alle aktuellen
         News.
         {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>Twitter</a>
+        <a href={`https://twitter.com/${social.twitter}`}>Kurzmeldungen auch bei Twitter</a>
       </p>
     </div>
   )

@@ -42,7 +42,7 @@ const Layout = ({ location, title, children }) => {
           }}
           to={`/`}
         >
-          {title}
+          Blog
         </Link>
       </h3>
     )
@@ -56,6 +56,7 @@ const Layout = ({ location, title, children }) => {
         padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`
       }}
     >
+        <a href="https://cardonly.de">CardOnly.de</a>
       <header>{header}</header>
       <main>{children}</main>
       <footer>
