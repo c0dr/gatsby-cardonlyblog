@@ -7,19 +7,22 @@ description: "Der Jahresbericht von Revolut für 2019 ist draußen, knapp 162 Mi
 ![Revolut Logo](./Revolut.svg)
 
 Seit gestern kann man im [Companies House](https://beta.companieshouse.gov.uk/company/08804411/filing-history) 
-den Jahresbericht für 2019 von Revolut anschauen, die Zahlen sind relativ interessant:
+den Jahresbericht für 2019 von Revolut anschauen, die Zahlen sind relativ interessant. Insgesamt kann man sagen, dass die Kundenzahlen und der Umsatz massiv hochgegangen sind, was aber nicht die massiv gestigenen Ausgaben im Support ausgleichen konnten.
 
-Der Umsatz ist auf 162 Mio Pfund (+104 Mio im Vergleich zum Vorjahr) hoch, allerdings auch der Aufwand auf 270 Mio Pfund +178 Mio im Vergleich zum Vorjahr).
+Im Detail:
+* Umsatz auf 162 Mio Pfund hoch (+180% im Vergleich zum Vorjahr)
+* Aufwand auf 270 Mio Pfund hoch (+193% im Vergleich zum Vorjahr)
+* Kunden auf 10 Mio hoch (+230% im Vergleich zum Vorjahr)
+    
+Beim Kundenwachstum spielen vor allem die Privatkunden eine große Rolle, Business-Kunden hat man bislang "nur" knapp 200k.
 
-Massiv ist auch das Kundenwachstum. Von 3 Millionen Kunden in 2018 hat man sich in 2019 auf 10 Millionen Privatkunden gesteigert. Durch COVID ist die Steigerungsrate etwas runtergegangen, aktuell sieht man sich bei etwa 13 Millionen Kunden. Knapp 2,2 Milliarden Pfund haben diese Kunden eingelegt, in 2018 waren es noch 903 Millionen Pfund. Das Wachstum bei den Einlagen liegt also ziemlich hinter dem Kundenwachstum zurück.
+Knapp 2,2 Milliarden Pfund haben diese Kunden eingelegt, in 2018 waren es noch 903 Millionen Pfund. Das Wachstum bei den Einlagen liegt also ziemlich hinter dem Kundenwachstum zurück.
 
-Stark getrieben ist der Umsatz vom Interchange, knapp 102 Millionen Pfund oder knapp 60% generiert Revolut derzeit daraus. Die Positionierung als Reisekarte und hohen Interchanges im Ausland verglichen mit dem EEA dürften dabei helfen. Nur bei dem Metal-Plan zahlt man dem User davon 1% zurück. Knapp 39.5 Millionen Pfund hat man mit den Abos eingenommen. Das Wachstum bei beiden entspricht fast dem Wachstum bei den Kundenzahlen.
-
-Crypto hat vor allem seit COVID einen starken Schub bekommen,  knapp 90 Millionen in Assets hat man nun, auch wenn der Kunde bei Revolut die Kryptowährung nicht direkt mit seinem Schlüssel hält.
+Stark getrieben ist der Umsatz vom Interchange, knapp 102 Millionen Pfund oder knapp 60% generiert Revolut derzeit daraus. Die Positionierung als Reisekarte und hohen Interchanges im Ausland verglichen mit dem EEA dürften dabei helfen. Nur bei dem Metal-Plan zahlt man dem User davon 1% zurück. Knapp 39.5 Millionen Pfund hat man mit den Abos eingenommen. Das Wachstum bei beiden entspricht fast dem Wachstum bei den Kundenzahlen. Der Rest sind sonstige Dienstleistungen wie Handyversicherungen.
 
 Der Aufwand wird vor allem durch Mitarbeiterzuwachs getrieben, statt 24 Millionen in 2018 fallen in 2019 knapp 92 Mio an, durch neue Supportbüros u.a. in Porto. Dazu passen dann auch die Meldungen von Mai/Juni diesen Jahres, dass einige Mitarbeiter [gegangen wurden](https://www.gruenderszene.de/fintech/revolut-entlassungen-corona), vermutlich um kurzzeitig Kosten zu sparen.
 
-Am Ende des Jahres wächt der Verlust in 2019 somit von 32 Millionen Pfund im Vorjahr auf nun 106 Millionen Pfund.
+Am Ende des Jahres wächt der Verlust in 2019 von 32 Millionen Pfund im Vorjahr auf nun 106 Millionen Pfund.
 
 Anfang 2020 hatte man $500 Millionen eingesammelt, im Juni nochmal $80 Millionen, genügend Geld zum Verbrennen hat man erst mal noch.
 
