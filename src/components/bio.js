@@ -49,7 +49,8 @@ const Bio = () => {
         style={{
           marginRight: rhythm(1 / 2),
           marginBottom: 0,
-          minWidth: 150,
+          minWidth: 250,
+          minHeight: 150
         }}
       />
       <p>
