@@ -16,8 +16,9 @@ const Bio = () => {
     query BioQuery {
       avatar: file(absolutePath: { regex: "/payment.jpg/" }) {
         childImageSharp {
-            fluid(maxWidth: 700, maxHeight: 300) {
-            ...GatsbyImageSharpFluid
+            fluid(maxHeight: 700, quality: 100) {
+                ...GatsbyImageSharpFluid
+                ...GatsbyImageSharpFluidLimitPresentationSize
             }
         }        
       }
@@ -49,8 +50,9 @@ const Bio = () => {
         style={{
           marginRight: rhythm(1 / 2),
           marginBottom: 0,
-          minWidth: 250,
-          minHeight: 150
+          maxWidth: '300px',
+          maxHeight: '150px',
+          minWidth: '100px',
         }}
       />
       <p>
