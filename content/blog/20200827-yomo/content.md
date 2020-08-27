@@ -4,14 +4,14 @@ date: "2020-08-27T19:12:03.284Z"
 description: "Das Ende vom Produkt yomo der Sparkassen für junge Leute war lange bekannt, nun geht es endgültig zuende"
 ---
 
-![Yomo](./yomo.png)
+![Yomo Karte](./yomo.jpg)
 
 Mitte 2016 war durchgesickert, dass einige Sparkassen zusammen ein App-basiertes Girokontoprodukt planen.
 Das Bundeskartellamt hatte man sicherheitshalber eingeschaltet, das dem ganzen [grünes Licht](https://www.bundeskartellamt.de/SharedDocs/Meldung/DE/Pressemitteilungen/2016/14_09_2016_Sparkasse_App.html) erteilte.
 Number26 als innovatives Banking-Startup hatte sich gerade erst zu N26 rebranded und war auf dem Weg zur eigenen Banklizenz, zu dem Zeitpunkt setzte man noch auf die Wirecard Bank.
 So schien die Sorge der Sparkassen, dass man viele junge Kunden verlieren könnte. Zum einen an Neobanken wie N26, aber sicher auch an Direktbanken wie die DKB.
 
-Man einigte sich auf die grundlegenden Konditionen: Das Konto selber mit Karte sollte kostenlos sein, ebenso Abhebungen im Sparkassennetz, Überweisungen und Lastschriften ebenfalls. Der Rest wie ATM-Gebühren im Ausland wurden den einzelnen Sparkassen überlassen. Einzelne Sparkassen boten einen Dispo von 500€ an, andere nicht. Der Vergleich erfolgte innerhalb der App durch Studieren von seitenlangen PLV.
+Man einigte sich auf die grundlegenden Konditionen: Das Konto selber mit Karte sollte kostenlos sein, ebenso Abhebungen im Sparkassennetz, Überweisungen und Lastschriften ebenfalls. Die Karte kam im einheitlichen bunten Design, die App genauso. Der Rest wie ATM-Gebühren im Ausland wurden den einzelnen Sparkassen überlassen. Einzelne Sparkassen boten einen Dispo von 500€ an, andere nicht. Der Vergleich erfolgte innerhalb der App durch Studieren von seitenlangen PLV.
 
 In [Juli 2017](https://www.handelsblatt.com/finanzen/banken-versicherungen/fintechs-smartphone-konto-der-sparkassen-startet-jetzt/19993016.html) erfolgte der gesamte Launch, etwa 12 Sparkassen der etwa 385 waren dabei.
 
