@@ -28,7 +28,7 @@ Für die Mietwagenversicherungen werden teils andere Karten betrachtet:
 | Jahrespreis             | 82,80€                        | 660€              | 109,92€                       | 99€                                                              | 69€                     |
 | Karteneinsatz           | ja                            | ja                | ja                            | ja                                                               | ja                      |
 | Deckungshöhe            | 75k€                          | 75k€              | 75k€                          | 100k€                                                            | 75k€                    |
-| Deckungshöhe Berechnung | Barwert zum Schadenszeitpunkt | 10% mind 100€ p.P | Barwert zum Schadenszeitpunkt | Buchwert im Großhandel abzüglich Abschreibung und Bergungskosten | Marktwert               |
+| Deckungshöhe Berechnung | Barwert zum Schadenszeitpunkt | Barwert zum Schadenszeitpunkt | Barwert zum Schadenszeitpunkt | Buchwert im Großhandel abzüglich Abschreibung und Bergungskosten | Marktwert               |
 | Selbstbeteiligung       | 0€                            | 200€              | 200€                          | 0€                                                               | 230€                    |
 | Reise notwendig         |                               | ja                |                               | ja                                                               |                         |
 | Maximale Sitzplätze     | 7                             | 9                 | 7                             | keine Einschränkung                                              | keine Einschränkung     |
