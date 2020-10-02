@@ -5,7 +5,7 @@ module.exports = {
       name: `Simon`,
       summary: `who lives and works in San Francisco building useful things.`
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Alle aktuellen News zu Kartenzahlung und Banking bei CardOnly`,
     siteUrl: `https://blog.cardonly.de/`,
     social: {
       twitter: `cardonly_de`
@@ -60,8 +60,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `CardOnyl.de Blog`,
+        short_name: `CardOnly`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
