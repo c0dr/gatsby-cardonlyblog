@@ -20,7 +20,7 @@ Man kann also nur spekulieren, wie die Preise im Einsatz aussehen, sie werden si
 |                  | Siegen                                       | Ospa                                            | Westmünsterland                         | Oberlausitz                        |
 |------------------|----------------------------------------------|-------------------------------------------------|-----------------------------------------|------------------------------------|
 | Kontogebühr      | 6€                                           | 6,99€                                           | 9€                                      | 7,90€                              |
-| AEE              | GC: 1%, mind 1€, max. 4€ KK: 1%              | 2%                                              | GC: 1%, mind 0.77€, max. 3,83€ KK: 1.5% | GC: 1%, mind 1€, max 4€ KK: 1.5%   |
+| Fremdwärung              | GC: 1%, mind 1€, max. 4€ KK: 1%              | 2%                                              | GC: 1%, mind 0.77€, max. 3,83€ KK: 1.5% | GC: 1%, mind 1€, max 4€ KK: 1.5%   |
 | ATM €            | GC: 1%, mind. 2.5€, max. 4€ KK: 2%, mind 6€  | GC: 7,50€ KK: 2%, mind. 5,11€                   | GC: 4,50€ KK: 0€                        | GC: 1%, mind 6€ KK: 2%, mind 5€/0€ |
 | ATM Fremdwährung | GC: 1%, mind. 2.5€, max. 4€ KK: 2%, mind. 6€ | GC: 7,50€ + 2% AEE KK: 2%, mind. 5,11€ + 2% AEE | GC: 4,50€ KK: 1.5%                      | GC: 1%, mind 6€  KK: 1.5%          |
 
@@ -32,5 +32,6 @@ Bei der Sparkasse Westmünsterland scheint man die Preise seit der DM-Umstellung
 
 Einzig bei der Ospa nimmt man "günstige" 2% für die Fremdwährung.
 
-Sollte man die Bepreisung nicht ändern, dürfte das mit dem Einsatz zum Online-Shopping und weltweiten zahlen dann doch eher abschreckend sein. Selbst DCC dürfte beim Kauf von kleinen Artikeln beispielsweise auf AliExpress günstiger sein. Man kann nur hoffen, dass die Sparkassen ein solides Produkt nicht durch die Preisgestaltung kaputtmachen.
+Sollte man die Bepreisung nicht ändern, dürfte das mit dem Einsatz zum Online-Shopping und weltweiten zahlen dann doch eher abschreckend sein. 
+Beim kleinen Einkauf auf AliExpress könnten die Gebühren schnell teuerer sein als der Artikel selbst. Man kann nur hoffen, dass die Sparkassen ein solides Produkt nicht durch die Preisgestaltung kaputtmachen.
 
