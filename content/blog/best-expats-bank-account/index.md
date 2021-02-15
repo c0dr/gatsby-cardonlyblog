@@ -14,6 +14,7 @@ I would recommend either DKB or ING and vivid on top, but here are 4 popular ban
 
 
 ## [Vivid](https://bit.ly/2N8858u) (Bonus offer: get 40€ in cashback!)
+![Vivid](https://cardonly.de/img/vivid.png)
 Vivid is a smartphone bank with an English interface. It's not a fully-fledged bank, but it offers a Metal Visa debit card and significant signup bonuses. No credit check is done, so your Schufa will stay clean.
 
 **You'll get access to Super Deals for 1 month, allowing you to get 40€ of cashback on top.**
