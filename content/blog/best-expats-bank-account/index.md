@@ -10,11 +10,11 @@ Comdirect has announced to charge money for their popular bank account. Starting
 
 Switching banks account is easy and fast, but which one should you get?
 
+I would recommend either DKB or ING and vivid on top, but here are 4 popular bank accounts, especially for expats.
 
 
 ## [Vivid](https://bit.ly/2N8858u) (Bonus offer: get 40€ in cashback!)
-[enter link description here](https://bit.ly/2N8858u)![enter image description here](https://cardonly.de/img/vivid.png)
-An English smartphone bank with an English interface. It's not a fully-fledged bank, but it offers a Metal Visa debit card and significant signup bonuses. No credit check is done, so your Schufa will stay clean.
+Vivid is a smartphone bank with an English interface. It's not a fully-fledged bank, but it offers a Metal Visa debit card and significant signup bonuses. No credit check is done, so your Schufa will stay clean.
 
 **You'll get access to Super Deals for 1 month, allowing you to get 40€ of cashback on top.**
 **Even if you decide for a different bank account as your daily driver, up to 40€ in cashback and a sleek metal visa card is worth it.**
@@ -27,6 +27,7 @@ An English smartphone bank with an English interface. It's not a fully-fledged b
 
 ### [Sign up now*](https://bit.ly/2N8858u)
 
+---
 
 ## N26
 
@@ -41,6 +42,8 @@ The Debit Mastercard allows 3-5 free withdrawals per month, shopping in a foreig
 **Fees for spending abroad:** 0, ATM 1.7%
 
 ### [Sign up now](http://n26.com)
+
+---
 
 
 ## [DKB](https://bit.ly/2MZ6Atj)
@@ -62,6 +65,8 @@ You'll also get an "ec Karte" for all these annoying German restaurants that ins
 
 
 ### [Sign up now*](https://bit.ly/2MZ6Atj)
+
+---
 
 
 ## [ING](https://www.ing.de/girokontokwk/a/dSm1yi31XB)
